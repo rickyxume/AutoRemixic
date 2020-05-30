@@ -1,5 +1,5 @@
 # AutoRemixic
-An automation script based on python-selenium for blockchain smart contract related data collection.
+An automatic script based on python-selenium for blockchain smart contract related data collection.
 
 ## Introduction
 This project is based on the existing smart contract open source code data set. 
